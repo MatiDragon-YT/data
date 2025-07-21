@@ -3,6 +3,19 @@ enum ImguiType
 	var=0               
 end
 
+enum Platform 
+   None = 0
+   Android = 1
+   PSP = 2
+   IOS = 3
+   FOS = 4
+   XBox = 5
+   PS2 = 6
+   PS3 = 7
+   Mac = 8
+   Windows = 9
+end
+
 enum ModSlot
 	Hood=0
 	Vents=1

@@ -47,12 +47,25 @@
 0A92=create_custom_thread
 
 08B4=bit_test
+08B4=bit_run
 08B4=bit_is_true
+
 88B4=bit_is_false
+88B4=bit_sleep
+08B7=lbit_sleep
+
+
 08BA=bit_set
+08BA=bit_on
 08BA=bit_set_true
+
 08C0=bit_clear
+08C0=bit_off
 08C0=bit_set_false
+
+08B7=lbit_run
+08BD=lbit_on
+08C3=lbit_off
 
 ; CLEO 4
 ; https://github.com/thelink2012/gta3sc/blob/36e0a3ee852159ce6e5e164f495e6d7e83bece85/config/gtasa/cleo.xml

@@ -6,7 +6,7 @@ const
 	none='DUMMY'
 	skip='DUMMY'
 
-	f_PC=0
+	f_PC=9
 	f_Android=1
 
 	f_Full=0
@@ -27,7 +27,7 @@ const
 	m_FLOAT = 4
 	m_INT32 = 4
 	
-	_PI =    3.14159265
+	_PI =    3.14159265358979323
 	_Euler = 2.71828182845904523
 
 	param1=0@

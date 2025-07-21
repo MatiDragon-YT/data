@@ -1362,7 +1362,7 @@
 08F6: restore_player_group
 08F7: get_player $VAR28 bodypart 0 textureCRC_to $VAR6 modelCRC_to $VAR16
 08F8: display_stat_update_box 0
-08F9:   v$VAR20 == v$VAR12
+08F9:   v$VAR20 == "LONG"
 08FB: set_checkpoint 28@ type_to 0
 08FD: enable_heat_visuals 0
 08FE:   text_box_displayed
