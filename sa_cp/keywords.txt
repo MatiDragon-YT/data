@@ -52,8 +52,6 @@
 
 88B4=bit_is_false
 88B4=bit_sleep
-08B7=lbit_sleep
-
 
 08BA=bit_set
 08BA=bit_on
@@ -64,8 +62,16 @@
 08C0=bit_set_false
 
 08B7=lbit_run
+88B7=lbit_sleep
+
+08BD=lbit_set_true
 08BD=lbit_on
+08C3=lbit_set_false
 08C3=lbit_off
+
+0DDC=set_mutex_var
+0DDD=get_mutex_var
+
 
 ; CLEO 4
 ; https://github.com/thelink2012/gta3sc/blob/36e0a3ee852159ce6e5e164f495e6d7e83bece85/config/gtasa/cleo.xml
@@ -579,3 +585,5 @@
 0EFD=get_car_pedals
 0EFE=get_loaded_library
 0EFF=get_char_simplest_active_task
+
+2002=CLEO_RETURN_WITH

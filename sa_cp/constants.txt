@@ -167,7 +167,7 @@ var
 TIMERA: int
 TIMERB: int
 TIMERX: int
-TIMERZ: int
+TIMERY: int
 
 _Player: int
 _Char: int
